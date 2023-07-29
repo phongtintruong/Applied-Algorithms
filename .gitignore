@@ -33,3 +33,6 @@
 
 # Visual Studio files
 *.vscode
+
+# TEST_FILES
+TEST_*
